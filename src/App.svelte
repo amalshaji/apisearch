@@ -133,4 +133,7 @@
 </main>
 
 <style>
+  .badge:hover {
+    cursor: pointer;
+  }
 </style>
